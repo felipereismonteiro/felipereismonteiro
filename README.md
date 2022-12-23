@@ -1,5 +1,10 @@
 ## Faaaala dev, Felipe Aqui!
 
+<ul>
+  <li>Felipe Reis, a programmer looking to learn more and more in the programming market.
+  <li>I'm 20 years old and I'm passionate about programming.
+</ul>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
