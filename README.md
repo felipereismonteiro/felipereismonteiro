@@ -6,6 +6,10 @@
   <li>Currently studing at Driven Education.
   <li>I'm 20 years old and I'm passionate about programming.
 </ul>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereismonteiro&show_icons=true&theme=radical"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereismonteiro&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -22,10 +26,7 @@
 
 <img width="100%" align="center" src="https://github.com/felipereismonteiro/felipereismonteiro/blob/output/github-contribution-grid-snake.svg"/>
   
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereismonteiro&show_icons=true&theme=radical"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipereismonteiro&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+
 <br>
 
 
