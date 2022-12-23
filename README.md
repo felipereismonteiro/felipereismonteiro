@@ -1,4 +1,4 @@
-## Wellcome dev, Felipe Here!
+## Wellcome dev, Felipe Here! 😜
 
 <ul>
   <li>Felipe Reis, a programmer looking to learn more and more in the programming market.
