@@ -2,6 +2,8 @@
 
 <ul>
   <li>Felipe Reis, a programmer looking for new chellenges.
+  <li>Always learning new things!!!
+  <li>Currently studing at Driven Education.
   <li>I'm 20 years old and I'm passionate about programming.
 </ul>
 
