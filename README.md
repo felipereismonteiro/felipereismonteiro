@@ -1,7 +1,7 @@
 ## Wellcome dev, Felipe Here! 😜
 
 <ul>
-  <li>Felipe Reis, a programmer looking to learn more and more in the programming market.
+  <li>Felipe Reis, a programmer looking for new chellenges.
   <li>I'm 20 years old and I'm passionate about programming.
 </ul>
 
