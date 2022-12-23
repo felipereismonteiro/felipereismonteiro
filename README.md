@@ -1,5 +1,5 @@
 ## Faaaala dev, Felipe Aqui!
-
+  
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipereismonteiro&show_icons=true&theme=radical"/>
@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30"  alt="nodejs-icon" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
    </div>
-  
+  <img width="100%" align="center" src="https://github.com/felipereismonteiro/felipereismonteiro/blob/output/github-contribution-grid-snake.svg"/>
 </div>
+
   
-![Snake animation](https://github.com/felipereismonteiro/felipereismonteiro/blob/output/github-contribution-grid-snake.svg)
